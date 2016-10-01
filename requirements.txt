@@ -1,0 +1,6 @@
+telepot
+python-dateutil
+google-api-python-client
+Flask==0.11.1
+cf-deployment-tracker==1.0.2
+cloudant==2.1.0

@@ -1,0 +1,5 @@
+*.json
+Secret.py
+*.pyc
+credentials/
+*.csv

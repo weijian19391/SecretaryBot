@@ -1,0 +1,7 @@
+login - Log in to your Google Account for us to add events
+add - Add events to your calendar
+upcomingevents - get the x upcoming events
+nextfreeday - return the nearest date with no events on that day
+help - see what u can do with this bot
+
+showday - shows the event for a particular day
